@@ -1,4 +1,5 @@
 package unipi.dataStructures.exer2;
+
 class Node {
 	
 	public int id;
@@ -10,7 +11,7 @@ class Node {
 		this.priority = priority;
 	}
 
-}  
+}
 
 class WhatAStruct {	
 
@@ -444,4 +445,4 @@ class WhatAStruct {
 		return heapified;
 	}
 
-}  
+}
